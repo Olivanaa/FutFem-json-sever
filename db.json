@@ -50,7 +50,7 @@
                     "dataEvento": "2025-09-20",
                     "local": "Arena Pacaembu",
                     "status": "Confirmada",
-                    "dataInscricao": "2025-09-17"
+                    "dataInscricao": "2025-09-05"
                 }
             ],
             "documentos": []
@@ -82,7 +82,7 @@
                     "dataEvento": "2025-10-05",
                     "local": "Estádio do Morumbi",
                     "status": "Confirmada",
-                    "dataInscricao": "2025-09-18"
+                    "dataInscricao": "2025-09-25"
                 }
             ],
             "documentos": []
@@ -114,7 +114,7 @@
                     "dataEvento": "2025-10-05",
                     "local": "Estádio do Morumbi",
                     "status": "Confirmada",
-                    "dataInscricao": "2025-09-18"
+                    "dataInscricao": "2025-09-29"
                 }
             ],
             "documentos": []
@@ -146,7 +146,7 @@
                     "dataEvento": "2025-09-20",
                     "local": "Arena Pacaembu",
                     "status": "Confirmada",
-                    "dataInscricao": "2025-09-17"
+                    "dataInscricao": "2025-09-07"
                 },
                 {
                     "eventoId": "3",
@@ -154,15 +154,7 @@
                     "dataEvento": "2025-11-15",
                     "local": "Estádio do Canindé",
                     "status": "Confirmada",
-                    "dataInscricao": "2025-09-19"
-                },
-                {
-                    "eventoId": "ab97",
-                    "nomeEvento": "Encontro Passa Bola SP",
-                    "dataEvento": "2025-09-23",
-                    "local": "Arena Pacaembu",
-                    "status": "Confirmada",
-                    "dataInscricao": "2025-09-17"
+                    "dataInscricao": "2025-10-28"
                 }
             ],
             "documentos": []
@@ -387,14 +379,6 @@
                     "local": "Arena Pacaembu",
                     "status": "Cancelado",
                     "dataInscricao": "2025-09-17"
-                },
-                {
-                    "eventoId": "3b71",
-                    "nomeEvento": "Encontro Passa Bola",
-                    "dataEvento": "2025-09-20",
-                    "local": "Arena Pacaembu",
-                    "status": "Confirmada",
-                    "dataInscricao": "2025-09-17"
                 }
             ],
             "documentos": []
@@ -480,46 +464,72 @@
             "descricao": "Encontro do Passa Bola pra uma noite de futebol e resenha",
             "inscritosHistorico": [
                 {
-                    "data": "2025-11-07",
+                    "data": "2025-09-05",
+                    "total": 1
+                },
+                {
+                    "data": "2025-09-07",
+                    "total": 2
+                },
+                {
+                    "data": "2025-09-10",
+                    "total": 2
+                },
+                {
+                    "data": "2025-09-17",
                     "total": 9
                 }
             ],
             "inscritos": [
                 {
                     "usuarioId": "2",
-                    "status": "Confirmada"
+                    "status": "Confirmada",
+                    "dataInscricao": "2025-09-05"
+                },
+                {
+                    "usuarioId": "187e",
+                    "status": "Confirmada",
+                    "dataInscricao": "2025-09-07"
                 },
                 {
                     "usuarioId": "5",
-                    "status": "Confirmada"
+                    "status": "Confirmada",
+                    "dataInscricao": "2025-09-17"
                 },
                 {
                     "usuarioId": "6",
-                    "status": "Confirmada"
+                    "status": "Confirmada",
+                    "dataInscricao": "2025-09-17"
                 },
                 {
                     "usuarioId": "7",
-                    "status": "Confirmada"
+                    "status": "Confirmada",
+                    "dataInscricao": "2025-09-17"
                 },
                 {
                     "usuarioId": "8",
-                    "status": "Confirmada"
+                    "status": "Confirmada",
+                    "dataInscricao": "2025-09-17"
                 },
                 {
                     "usuarioId": "9",
-                    "status": "Confirmada"
+                    "status": "Confirmada",
+                    "dataInscricao": "2025-09-17"
                 },
                 {
                     "usuarioId": "10",
-                    "status": "Confirmada"
+                    "status": "Confirmada",
+                    "dataInscricao": "2025-09-17"
                 },
                 {
                     "usuarioId": "6a2c",
-                    "status": "Cancelado"
+                    "status": "Cancelado",
+                    "dataInscricao": "2025-09-17"
                 },
                 {
                     "usuarioId": "9a5f",
-                    "status": "Cancelado"
+                    "status": "Cancelado",
+                    "dataInscricao": "2025-09-17"
                 }
             ]
         },
@@ -547,18 +557,24 @@
             "descricao": "Treino aberto para jogadoras interessadas em se juntar ao Clube.",
             "inscritosHistorico": [
                 {
-                    "data": "2025-11-07",
+                    "data": "2025-09-25",
+                    "total": 1
+                },
+                {
+                    "data": "2025-09-29",
                     "total": 2
                 }
             ],
             "inscritos": [
                 {
                     "usuarioId": "3",
-                    "status": "Confirmada"
+                    "status": "Confirmada",
+                    "dataInscricao": "2025-09-25"
                 },
                 {
                     "usuarioId": "4",
-                    "status": "Confirmada"
+                    "status": "Confirmada",
+                    "dataInscricao": "2025-09-29"
                 }
             ]
         },
@@ -586,14 +602,15 @@
             "descricao": "Campeonato amador de futebol feminino com times de toda a cidade.",
             "inscritosHistorico": [
                 {
-                    "data": "2025-11-07",
+                    "data": "2025-10-28",
                     "total": 1
                 }
             ],
             "inscritos": [
                 {
                     "usuarioId": "187e",
-                    "status": "Confirmada"
+                    "status": "Confirmada",
+                    "dataInscricao": "2025-10-28"
                 }
             ]
         }
